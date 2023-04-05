@@ -6,7 +6,7 @@ This is a python application that can be used to send a multilined message that 
 
 ## See video instruction for more :
 
-- https://vimeo.com/814713030
+- 
 
 ## Multi-threaded server output(as it is received. Tons of messages can now be sent securely). See screenshot :
 
