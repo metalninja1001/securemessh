@@ -10,7 +10,7 @@ This is a python application that can be used to send a multilined message that 
 - input : At initial start-up, the application will prompt you to select a text-editor. You have a choice between nano and vim. Once selected, can you then enter your multiline message to be sent.
 
 ## Windows Installer
-- The Windows installer provides the ability to run the application on a Windows device. If you would like a chat-style experience, it recommended to use the listener along with the Windows application.
+- The Windows installer provides the ability to run the application on a Windows device. If you would like a chat-style experience, it is recommended to use the listener along with the Windows application.
 
 ## Multi-threaded server output(as it is received. Tons of messages can now be sent securely). See screenshot :
 
