@@ -6,7 +6,7 @@ This is a python application that can be used to send a multilined message that 
 
 ## How to :
 - run : `nc -l -p 443 -k` in your terminal to start a listener. This method is recommended for receiving e-mail style messages.
-- run : `securemessh.py` and follow the prompts. You will be required to provide the hostname where the ssh service is running on, as well as the username and password
+- run : `securemessh.py` in a separate terminal and follow the prompts. You will be required to provide the hostname where the ssh service is running on, as well as the username and password
 - input : At initial start-up, the application will prompt you to select a text-editor. You have a choice between nano and vim. Once selected, can you then enter your multiline message to be sent. By default, nano is selected. See below :
 
 ![image](https://user-images.githubusercontent.com/101802030/230252424-55985c67-08c5-4119-8b1d-75faa49ff881.png)
